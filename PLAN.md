@@ -21,8 +21,8 @@ for the routine path.
 | H. Duplicate check + record keeping | Checks prior receipts, records SA + confirmation | No | Database table of submissions; block re-submit of same SA unless "correction" is checked. |
 
 **Bottom line:** everything except reading the photos is deterministic. The LLM was only ever a browser driver and a
-under a cent per photo (§4).
-vision model for step A (§4).
+form wizard; both are cheap to replace with code. The only paid piece is a small vision model reading the photos, at
+well under a cent per photo (§4).
 
 ---
 
